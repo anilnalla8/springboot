@@ -17,4 +17,6 @@ public class HomeController {
 	
 		return mv;
 	}
+	public String add();
+	return "This  is Added method by the second develope";
 }
